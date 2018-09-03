@@ -16,6 +16,7 @@ import io.choerodon.swagger.annotation.Permission;
 @RestController
 //@RequestMapping("v1/21496")
 public class DemoController {
+
     @Autowired
     private Myinfo myinfo;
 
